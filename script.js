@@ -17,7 +17,7 @@ toggle.addEventListener('click', function(){
         body.style.color = 'black';
         body.style.transition = '2s';
     }else{
-        body.style.background = '#181A1B';
+        body.style.background = '#135874';
         body.style.color = 'white';
         body.style.transition = '2s';
     }
